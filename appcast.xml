@@ -3,6 +3,22 @@
     <channel>
         <title>Aside</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Mon, 20 Apr 2026 15:14:00 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>New effort levels for the latest Claude models</h3>
+                <ul>
+                    <li><b>Max</b> effort — Opus only</li>
+                    <li><b>Extra High</b> effort — Opus and Sonnet</li>
+                    <li>Automatically adjusts to the highest supported level when switching models</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/burtherman/aside-updates/releases/download/v1.1.1/Aside.zip" length="3737961" type="application/octet-stream" sparkle:edSignature="PUhOEr+v2dAvDG0H2eZVdpgEmBtv6DAXodNac6ME70o+1A1nM8OtHRWfOAA59Jai/bEsPV7r/1eOi6jbg3t9BA=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 12 Apr 2026 16:00:06 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
