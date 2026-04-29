@@ -3,6 +3,26 @@
     <channel>
         <title>Aside</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 29 Apr 2026 14:55:00 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li><b>Resume Claude Code sessions</b> — pick up any session you started in Terminal, scoped to the current project or all projects.</li>
+                    <li><b>Context usage bar</b> — live percentage of model context, with a one-click <b>Compact</b> button at 80%.</li>
+                    <li><b>Jump to latest</b> — floating button when you've scrolled up; chat no longer jumps to the top on its own.</li>
+                    <li><b>Menubar status</b> — yellow pulsing typing dots while working, green bubble when a reply is waiting.</li>
+                    <li><b>Remote Control bridge</b> — open the active session in your browser at claude.ai/code from the directory bar.</li>
+                    <li><b>Auto permission mode</b> — auto-approves safe tools, prompts for risky ones.</li>
+                    <li><b>Send Feedback</b> — direct line from the About window or right-click menu.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/burtherman/aside-updates/releases/download/v1.2.0/Aside.zip" length="3862392" type="application/octet-stream" sparkle:edSignature="ZJIaOgwW4u5cmZqYcOr3Pfik1pyIQSQw4lApHzERIsu/4nRgq78XdxkBiOsx/IXCDhvi0u3I3TAjv/2eC9ZwBQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Mon, 20 Apr 2026 15:14:00 -0400</pubDate>
             <sparkle:version>5</sparkle:version>
