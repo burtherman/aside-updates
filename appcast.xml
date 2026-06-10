@@ -3,6 +3,23 @@
     <channel>
         <title>Aside</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Wed, 10 Jun 2026 12:25:18 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Fixes &amp; improvements</h3>
+                <ul>
+                    <li><b>No more phantom update prompts</b> — fixed a version-stamping mismatch between the app and the update feed.</li>
+                    <li><b>Faster session history</b> — Claude Code sessions, especially <b>All projects</b>, load far quicker via incremental reads and caching.</li>
+                    <li><b>Fable model</b> — added to the model picker; <b>Extra High</b> and <b>Max</b> effort now work on Sonnet too; new <b>Plan</b> permission mode.</li>
+                    <li><b>Reliability</b> — fixes for stop-then-resend, push-to-talk voice, history search with non-Latin text, the screenshot preview, and CLI discovery for nvm installs.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/burtherman/aside-updates/releases/download/v1.2.1/Aside.zip" length="3931532" type="application/octet-stream" sparkle:edSignature="Y8q8qdQdFe6/DaGTzO1BIoZV2AjEoPZhrokrKFboOh5VS8iqsrOgM4ftYCcASkaLSq693KUmlSO1hhdh6a6ADw=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Wed, 29 Apr 2026 14:55:00 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
